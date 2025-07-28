@@ -6,6 +6,12 @@ Email Me 👉 ✉️ **jadhavnarayan484@gmail.com** For Collaboration/Project or
 - 📫 **How to reach me:** jadhavnarayan484@gmail.com
 - 😄 **Pronouns:** Narayan
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+🎓 I'm a recent graduate passionate about software development and technology.
+
+💡 I love learning about web development, data structures, and building side projects.
+
+💼 I'm looking for opportunities as a **Software Developer / Intern / Web Developer**
+
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/narayan-j-5599ba234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jadhavnarayan484@gmail.com) 
