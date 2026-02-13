@@ -4,13 +4,13 @@
 Email Me 👉 ✉️ **jadhavnarayan484@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 📫 **How to reach me:** jadhavnarayan484@gmail.com
-- 😄 **Pronouns:** Narayan
+- 😄 **Pronouns:** Narayana
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 🎓 I'm a recent graduate passionate about software development and technology.
 
 💡 I love learning about web development, data structures, and building side projects.
 
-💼 I'm looking for opportunities as a **Software Developer / Intern / Web Developer**
+💼 I'm looking for opportunities as a **Software Developer / Intern / Web Developer / Java Developer / software Engineer **
 
 
 ## 🌐 Socials:
